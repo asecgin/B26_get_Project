@@ -1,0 +1,9 @@
+.idea
+*.iml
+*.xml
+/out
+# comet with hastag i vsc and choose git enable to git this crates local resporotary
+#
+
+
+
